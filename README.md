@@ -1,11 +1,4 @@
-# Hey Gen Clone
-
-![alt text](thumbnail.png)
-
-[Link to video](https://youtu.be/s4P-H-ptKr0)
-
-[Discord and more](https://www.andreastrolle.com/)
-
+# Video Face
 ## Overview
 
 Hi 🤙 In this project, you'll build a SaaS application that generates realistic AI videos. The tool uses state-of-the-art models to create talking avatars from a single photo, translate videos into different languages with voice cloning and lip-syncing, and replace the audio on existing videos. You'll learn how to build a complete production-ready SaaS with user authentication, a credit-based payment system, and background processing queues to handle user load. All services used in this project are free, so you won't have to pay anything to follow along. We'll use technologies such as Next.js 15, React, Typescript, Tailwind CSS, ShadCN, BetterAuth, Polar, Python, FastAPI, Modal, Inngest, Neon, S3 on AWS, and more.
